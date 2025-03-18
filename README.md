@@ -132,3 +132,5 @@ python sprite_toolz.py
 - GIF exports include proper frame disposal for clean animations
 - APNG (Animated PNG) exports maintain full color depth and alpha channel
 - Batch processing creates organized subfolders for different export types 
+
+Read the [Features List](FEATURES.md) for a highlight of features
