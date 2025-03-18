@@ -3,6 +3,8 @@
 A powerful sprite sheet manipulation tool built with Python.\
 **Sprite Toolz** provides a comprehensive set of features for working with sprite sheets, including frame manipulation, batch processing, and animation export.
 
+Read the [Features List](FEATURES.md) for a highlight of features or keep reading:
+
 ![Sprite Toolz - Main options Screenshot](screenshot01.png)
 ![Sprite Toolz - Manipulation options Screenshot](screenshot02.png)
 ![Sprite Toolz - Batch options Screenshot](screenshot03.png)
