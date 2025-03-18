@@ -1,6 +1,7 @@
 # Sprite Toolz
 
-A powerful sprite sheet manipulation tool built with PyQt6 and Python. Sprite Toolz provides a comprehensive set of features for working with sprite sheets, including frame manipulation, batch processing, and animation export.
+A powerful sprite sheet manipulation tool built with Python.\
+**Sprite Toolz** provides a comprehensive set of features for working with sprite sheets, including frame manipulation, batch processing, and animation export.
 
 ![Sprite Toolz - Main options Screenshot](screenshot01.png)
 ![Sprite Toolz - Manipulation options Screenshot](screenshot02.png)
@@ -122,10 +123,10 @@ python sprite_toolz.py
 ## Output Formats
 - **PNG**: Individual frames and sprite strips
 - **GIF**: Animated sequences with customizable frame duration
-- **APNG**: High-quality animations with transparency support
+- **APNG**: (Animated PNG) High-quality animations with transparency support
 
 ## Notes
 - All operations preserve transparency
 - GIF exports include proper frame disposal for clean animations
-- APNG exports maintain full color depth and alpha channel
+- APNG (Animated PNG) exports maintain full color depth and alpha channel
 - Batch processing creates organized subfolders for different export types 
