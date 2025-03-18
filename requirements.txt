@@ -1,0 +1,4 @@
+numpy
+pillow
+PyQt6
+imageio 
