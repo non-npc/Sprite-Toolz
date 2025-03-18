@@ -123,10 +123,10 @@ python sprite_toolz.py
 ## Output Formats
 - **PNG**: Individual frames and sprite strips
 - **GIF**: Animated sequences with customizable frame duration
-- **APNG**: High-quality animations with transparency support
+- **APNG**: (Animated PNG) High-quality animations with transparency support
 
 ## Notes
 - All operations preserve transparency
 - GIF exports include proper frame disposal for clean animations
-- APNG exports maintain full color depth and alpha channel
+- APNG (Animated PNG) exports maintain full color depth and alpha channel
 - Batch processing creates organized subfolders for different export types 
