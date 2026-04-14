@@ -137,4 +137,4 @@ python sprite_toolz.py
 
 Read the [Features List](FEATURES.md) for a highlight of features
 
-[Project is also available on itch.io]([https://github.com/non-npc/Sprite-Toolz](https://nonnpc.itch.io/sprite-toolz))
+[Project is also available on itch.io](https://nonnpc.itch.io/sprite-toolz)
