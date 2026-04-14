@@ -136,3 +136,5 @@ python sprite_toolz.py
 - Batch processing creates organized subfolders for different export types 
 
 Read the [Features List](FEATURES.md) for a highlight of features
+
+[Project is also available on itch.io]([https://github.com/non-npc/Sprite-Toolz](https://nonnpc.itch.io/sprite-toolz))
